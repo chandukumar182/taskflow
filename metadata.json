@@ -1,0 +1,6 @@
+{
+  "name": "Taskflow",
+  "description": "A responsive task management application with full CRUD operations, priority sorting, due-date tracking, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
